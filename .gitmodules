@@ -1,0 +1,4 @@
+[submodule "tftool"]
+	path = tftool
+	url = git@github.com:POFK/tftool.git
+    ignore = dirty
