@@ -1,4 +1,4 @@
 [submodule "tftool"]
 	path = tftool
-	url = git@github.com:POFK/tftool.git
+	url = https://github.com/POFK/DSCNN.git
     ignore = dirty
